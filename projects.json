@@ -1,0 +1,40 @@
+[
+  {
+    "Project Name": "Webslinger",
+    "Description": "Classified",
+    "Tasks": [
+      {
+        "task": "Produce web",
+        "done": true
+      },
+      {
+        "task": "Ferment web",
+        "done": true
+      },
+      {
+        "task": "Curate web",
+        "done": true
+      },
+      {
+        "task": "Pick best webs",
+        "done": true
+      },
+      {
+        "task": "Run further tests: Durability, longevity, taste, vescosity",
+        "done": true
+      },
+      {
+        "task": "Find best candidates for production",
+        "done": false
+      },
+      {
+        "task": "Swing test",
+        "done": false
+      },
+      {
+        "task": "analyze tests and pick best subjects",
+        "done": false
+      }
+    ]
+  }
+]

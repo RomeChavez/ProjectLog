@@ -1,0 +1,46 @@
+[
+  {
+    "Project Name": "L1 Rocket",
+    "Description": "Personal Project L1 motor rocket built for my rocketry club and my reusme",
+    "Tasks": [
+      {
+        "task": "Put o rings on motor tuve",
+        "done": true
+      },
+      {
+        "task": "attach motor tube to the body tube",
+        "done": true
+      },
+      {
+        "task": "epoxy the fins onto the motor tube",
+        "done": true
+      },
+      {
+        "task": "attach the payload and nose cone",
+        "done": true
+      },
+      {
+        "task": "paint and clean up",
+        "done": true
+      }
+    ]
+  },
+  {
+    "Project Name": "Testing",
+    "Description": "This is a test",
+    "Tasks": [
+      {
+        "task": "number 1",
+        "done": true
+      },
+      {
+        "task": "number 2",
+        "done": true
+      },
+      {
+        "task": "number 3",
+        "done": true
+      }
+    ]
+  }
+]
